@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1xbet-taiwan.github.io/sitemap.xml
