@@ -1,27 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://1xbet-taiwan.github.io/</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://1xbet-taiwan.github.io/app/</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://1xbet-taiwan.github.io/safety/</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://1xbet-taiwan.github.io/vip/</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-<url><loc>https://1xbet-taiwan.github.io/ptt-review/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://1xbet-taiwan.github.io/promo-code/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://1xbet-taiwan.github.io/crypto-usdt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url></urlset>
+  <url><loc>https://1xbet-taiwan.github.io/</loc><priority>1.0</priority></url>
+  <url><loc>https://1xbet-taiwan.github.io/app/</loc><priority>0.8</priority></url>
+  <url><loc>https://1xbet-taiwan.github.io/safety/</loc><priority>0.8</priority></url>
+  <url><loc>https://1xbet-taiwan.github.io/vip/</loc><priority>0.8</priority></url>
+  <url><loc>https://1xbet-taiwan.github.io/protw/</loc><priority>0.8</priority></url>
+  <url><loc>https://1xbet-taiwan.github.io/playtw/</loc><priority>0.8</priority></url>
+  <url><loc>https://1xbet-taiwan.github.io/oddscenter/</loc><priority>0.8</priority></url>
+</urlset>
